@@ -11,7 +11,7 @@
 ## ⚙️ Instalación y Uso  
 ```bash
 # Clonar el repositorio
-git clone https://github.com/Diaxz/Notas-IA.git
+git clone https://github.com/Juandiaxz/Notas-con-IA.git
 cd Notas-IA
 
 # Backend
